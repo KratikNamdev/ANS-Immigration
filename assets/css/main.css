@@ -11969,21 +11969,21 @@ body .ui-tooltip {
   font-family: var(--rr-ff-heading);
   color: var(--rr-common-white);
   font-weight: var(--rr-fw-bold);
-  font-size: var(--rr-fs-h2);
+  font-size: var(--rr-fs-h3);
   line-height: var(--rr-lh-h2);
   font-style: normal;
   letter-spacing: 3px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .counter__item-title {
-    font-size: 46px;
+    font-size: 30px;
   }
 }
 .counter__item-title span {
   font-family: var(--rr-ff-heading) !important;
   color: var(--rr-common-white);
   font-weight: var(--rr-fw-bold);
-  font-size: var(--rr-fs-h2);
+  font-size: var(--rr-fs-h3);
   line-height: var(--rr-lh-h2);
   font-style: normal;
 }
